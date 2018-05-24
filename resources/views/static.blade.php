@@ -91,31 +91,33 @@
                                 </div>
                                 <form class="contact_us_form row" id="formstatic" action="contact_process.php" method="post" novalidate="novalidate">
                                     <div class="form-group col-lg-10">
-                                        <input type="text" class="form-control" id="refractive" name="refractive" placeholder="Refractive Index (RI)">
+                                        <input type="text" class="form-control" id="refractive" name="refractive" placeholder="Refractive Index (RI) (1.511150 ~ 1.533930)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="email" class="form-control" id="sodium" name="sodium" placeholder="Sodium (Na)">
+                                        <input type="email" class="form-control" id="sodium" name="sodium" placeholder="Sodium (Na) (10.730000 ~ 17.380000) ">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text" class="form-control" id="alumunium" name="alumunium" placeholder="Alumunium (Al)">
+                                        <input type="text" class="form-control" id="alumunium" name="alumunium" placeholder="Alumunium (Al) (0 ~ 4.490000)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text" class="form-control" id="magnesium" name="magnesium" placeholder="Magnesium (Mg)">
+                                        <input type="text" class="form-control" id="magnesium" name="magnesium" placeholder="Magnesium (Mg) (0.290000 ~ 3.500000.
+)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text" class="form-control" name="sillicon" id="sillicon" placeholder="Silicon (SI)">
+                                        <input type="text" class="form-control" name="sillicon" id="sillicon" placeholder="Silicon (SI) (69.810000 ~ 75.410000)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text"  class="form-control" name="pottasium" id="pottasium" placeholder="Pottasium (K)">
+                                        <input type="text"  class="form-control" name="pottasium" id="pottasium" placeholder="Pottasium (K) (0 ~ 6.210000)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text"  class="form-control" name="calcium" id="calcium" placeholder="Calcium (Ca)">
+                                        <input type="text"  class="form-control" name="calcium" id="calcium" placeholder="Calcium (Ca) (5.430000 ~ 16.190000)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text"  class="form-control" name="barium" id="barium" placeholder="Barium (Br)">
+                                        <input type="text"  class="form-control" name="barium" id="barium" placeholder="Barium (Br) (0 ~ 3.150000)">
                                     </div>
                                     <div class="form-group col-lg-10">
-                                        <input type="text"  class="form-control" name="iron" id="iron" placeholder="Iron (Fe)">
+                                        <input type="text"  class="form-control" name="iron" id="iron" placeholder="Iron (Fe) (0 ~ 0.51000
+)">
                                     </div>
                                     <!-- <div class="form-group col-md-10">
                                          <label for="exampleResult" name="result">Result</label>
